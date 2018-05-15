@@ -12,6 +12,7 @@ namespace Purse
         {
             //Hello
             //this is project by Badz and Hvozdyk
+            //task for Hvozdyk
         }
     }
 }
