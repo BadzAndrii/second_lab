@@ -38,7 +38,7 @@ namespace Purse
             Console.WriteLine(m.startMoney);
             Console.WriteLine("End money:");
             Console.WriteLine(m.EndMoney);
-
+            //conflicted fixed
         }
     }
 }
