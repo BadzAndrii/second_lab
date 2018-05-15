@@ -30,6 +30,7 @@ namespace Purse
             Console.WriteLine(card.age);
 =======
 
+            // Badz Add class
             Money m = new Money();
             m.StartMoney = 100;
             m.AddMoney = 500;
