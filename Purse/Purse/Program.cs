@@ -12,7 +12,6 @@ namespace Purse
         {
             //Hello
             //this is project by Badz and Hvozdyk
-            //test for pull into badz brunch
         }
     }
 }
