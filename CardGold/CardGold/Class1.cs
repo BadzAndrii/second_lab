@@ -9,5 +9,6 @@ namespace CardGold
     public class Class1
     {
         //create CardGold dll
+        //build
     }
 }
