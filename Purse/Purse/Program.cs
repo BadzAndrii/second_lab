@@ -10,7 +10,7 @@ namespace Purse
     {
         static void Main(string[] args)
         {
-//Hvozdyk add 
+            //Hvozdyk add 
             Gold card = new Gold();
 
             card.owner = "Hvozdyk";
