@@ -13,8 +13,6 @@ namespace Purse
         {
             //Hello
             //this is project by Badz and Hvozdyk
-            //task for Hvozdyk
-
             //Hvozdyk add reference on Gold Card
             Gold card = new Gold();
 
@@ -29,6 +27,7 @@ namespace Purse
 
             // Badz Add class
 //Badz ADDDDD
+             //test2
             Money m = new Money();
             m.StartMoney = 100;
             m.AddMoney = 500;
@@ -38,7 +37,6 @@ namespace Purse
             Console.WriteLine(m.startMoney);
             Console.WriteLine("End money:");
             Console.WriteLine(m.EndMoney);
-            //conflicted fixed
         }
     }
 }
