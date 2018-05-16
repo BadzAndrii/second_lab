@@ -32,13 +32,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Reference Include="CardGold">
       <HintPath>..\..\CardGold\CardGold\bin\Debug\CardGold.dll</HintPath>
-=======
     <Reference Include="MoneyClass">
       <HintPath>..\..\MoneyClass\MoneyClass\bin\Debug\MoneyClass.dll</HintPath>
->>>>>>> origin/develop
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
